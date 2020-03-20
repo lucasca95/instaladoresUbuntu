@@ -1,3 +1,3 @@
 #!/bin/bash
 
-sudo apt install -y youtube-dl
+sudo -H pip3 install --upgrade youtube-dl
