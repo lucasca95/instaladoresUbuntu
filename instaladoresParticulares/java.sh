@@ -1,1 +1,1 @@
-sudo apt install -y openjdk-8-jre-headless
+sudo apt install -y openjdk-11-jdk
